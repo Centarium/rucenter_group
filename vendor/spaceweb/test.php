@@ -184,19 +184,6 @@ class QuestDone
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 $quest_db = new QuestDB();
 $quest_done = new QuestDone();
 

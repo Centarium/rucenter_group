@@ -1,0 +1,37 @@
+[
+    {
+        "name": "spaceweb/quest",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/swebru/quest.git",
+            "reference": "59cbb5daaf50721a9ac9f1a08e0a41050cfd3b37"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/swebru/quest/zipball/59cbb5daaf50721a9ac9f1a08e0a41050cfd3b37",
+            "reference": "59cbb5daaf50721a9ac9f1a08e0a41050cfd3b37",
+            "shasum": ""
+        },
+        "time": "2015-10-29 13:55:04",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SpaceWeb\\Quest\\": "src/classes/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Denis Akulov",
+                "email": "akulov.d.g@gmail.com"
+            }
+        ],
+        "description": "quest for interviewers"
+    }
+]
